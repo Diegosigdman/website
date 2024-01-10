@@ -1,4 +1,4 @@
----
+Good I have had problems with the application because I want to add extensions but I do not see any.  ---
 title: Diagnosis
 titleTemplate: Troubleshooting - Guides
 description: Facing issues with a source or the app? Follow these steps to troubleshoot and find solutions.
